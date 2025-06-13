@@ -1,5 +1,5 @@
-
-# ![image](https://github.com/user-attachments/assets/0d57febc-ca03-470f-9aec-e14630194bb2) Blinkit Data Analysis Dashboard
+ ![image](https://github.com/user-attachments/assets/0d57febc-ca03-470f-9aec-e14630194bb2) 
+# Blinkit Data Analysis Dashboard
 
 # Project Name :-
 Blinkit Data Analysis Dashboard Using Power BI 

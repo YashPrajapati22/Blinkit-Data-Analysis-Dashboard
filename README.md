@@ -7,6 +7,9 @@ Blinkit Data Analysis Dashboard Using Power BI
 
 This project presents a comprehensive Power BI dashboard for analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard provides key insights and opportunities for optimization using various KPIs and visualizations.
 
+## Dashboard Image :-
+![Blinkit Dashboad Capture](https://github.com/user-attachments/assets/a99e2057-2cbf-4d63-90cd-39cb3600153a)
+
 ## Key Performance Indicators (KPIs)
 
 The dashboard focuses on the following primary KPIs:
@@ -33,8 +36,4 @@ The dashboard focuses on the following primary KPIs:
 4. Medium-sized outlets in Tier 3 locations show the highest profitability
 5. Supermarkets generate higher sales volumes, while grocery stores have better item visibility
 
-# Overview :-
-
-## Dashboard Image :-
-![Blinkit Dashboad Capture](https://github.com/user-attachments/assets/a99e2057-2cbf-4d63-90cd-39cb3600153a)
 
